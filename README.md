@@ -1,1 +1,1 @@
-# javascript-exercise-Password-check-on-multiple-users
+# javascript-exercise-Password-check-on-single-user
